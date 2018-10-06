@@ -155,5 +155,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         downloadButton = (Button) findViewById(R.id.button6);
         portfolioButton = (Button) findViewById(R.id.button4);
+        //git commit
     }
 }
